@@ -1,17 +1,15 @@
-# Resume-Job-Matcher-Platform
+# Resume ⇆ Job Matcher
 
-Description: AI-powered Resume ⇆ JD Matching Platform (Learning Project)
+🚀 An AI-powered tool to match resumes with job descriptions and highlight missing skills.
 
-# Resume ⇆ Job Matcher Project
+## Tech Stack
 
-We are building an AI-powered Resume ⇆ JD matching tool using:
+- **Python (FastAPI, NLP, ML)** – resume parsing & matching
+- **Node.js + Express** – backend APIs
+- **React** – frontend UI
+- **MongoDB** – data storage
 
-- **Python (NLP/ML)** for resume parsing & skill matching
-- **Node.js + Express** for backend
-- **React** for frontend
-- **MongoDB** for storage
-
-## Day 1 Progress:
+## Day 1 Progress
 
 ✅ Repo setup  
-✅ Initial Colab for skill extraction & matching
+🔄 Colab notebook in progress
