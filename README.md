@@ -12,4 +12,7 @@
 ## Day 1 Progress
 
 ✅ Repo setup  
-🔄 Colab notebook in progress
+✅ Colab notebook in progress
+
+## Day 2 Praogess 
+Done bbg
